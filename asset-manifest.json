@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pairGame/static/css/main.56ca4b4c.css",
-    "main.js": "/pairGame/static/js/main.c65f2d7f.js",
+    "main.css": "/pairGame/static/css/main.29732841.css",
+    "main.js": "/pairGame/static/js/main.98d88750.js",
     "static/js/787.bc6ddb2e.chunk.js": "/pairGame/static/js/787.bc6ddb2e.chunk.js",
     "static/media/test.mp3": "/pairGame/static/media/test.fc3d9a0cc4d9468bc470.mp3",
     "index.html": "/pairGame/index.html",
-    "main.56ca4b4c.css.map": "/pairGame/static/css/main.56ca4b4c.css.map",
-    "main.c65f2d7f.js.map": "/pairGame/static/js/main.c65f2d7f.js.map",
+    "main.29732841.css.map": "/pairGame/static/css/main.29732841.css.map",
+    "main.98d88750.js.map": "/pairGame/static/js/main.98d88750.js.map",
     "787.bc6ddb2e.chunk.js.map": "/pairGame/static/js/787.bc6ddb2e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.56ca4b4c.css",
-    "static/js/main.c65f2d7f.js"
+    "static/css/main.29732841.css",
+    "static/js/main.98d88750.js"
   ]
 }
